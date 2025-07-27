@@ -7,7 +7,7 @@ created_at: 2025-07-25
 
 ~ [hack club highway](highway.hackclub.com)
 
-#### Total time spent so far:
+#### Total time spent so far: ~16 hours
 
 ## 2025-07-24 Research (3 hours)
 I found out that existing commmercial solutions are expensive, and there aren't many existing projects that implement a compact, budget DAC. There are plenty guides, though. I found a few from which I can get an idea of the BOM and feasability, as well as the rough circuit diagram.
