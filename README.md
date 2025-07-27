@@ -6,8 +6,10 @@ This project features a compact, yet high-quality, USB-C DAC, with an inbuilt op
 # Features
 - upto 24 bit 192kHz audio
 - Ultra Low Noise
+- USB-C input
 - Seperated Analog and Digital Signals on PCB
 - 4 layer PCB to avoid noise and EMI
+- 3.5 mm output jack
 
 # Images
 <img width="1920" height="1080" alt="render-1" src="https://github.com/user-attachments/assets/969fe051-04b1-452a-89cb-bc0489f72e64" />
