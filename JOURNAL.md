@@ -24,3 +24,8 @@ Done with the schematic today! Phew. That took a lot of research. Selecting the 
 Arranged the PCB Layout, placing caps and resistors in optimal positions. Using a 4 layer PCB would greatly reduce noise and electromagnetic interference, which is particulary important for a high quality audio device.
 
 <img width="963" height="762" alt="image" src="https://github.com/user-attachments/assets/99641e1a-6297-4409-a402-8b6303b889ea" />
+
+
+## 2025-07-26 More KiCAD (4.5 hours)
+Done with PCB!!! took a while to have everything routed because I had to be very careful with what layer each trace needs to go to.
+<img width="1020" height="872" alt="image" src="https://github.com/user-attachments/assets/43d9eb0a-e726-4bfc-b9c0-553a86384fb3" />
