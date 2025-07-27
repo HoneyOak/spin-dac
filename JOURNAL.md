@@ -31,3 +31,12 @@ Done with PCB!!! took a while to have everything routed because I had to be very
 <img width="1020" height="872" alt="image" src="https://github.com/user-attachments/assets/43d9eb0a-e726-4bfc-b9c0-553a86384fb3" />
 <img width="1332" height="957" alt="image" src="https://github.com/user-attachments/assets/2278206f-1d4d-4092-a20d-677f714a23a1" />
 
+## 2025-07-27 CAD and renders (5.5 hours)
+Whipped up a case in OnShape real quick. Added screw holes + knob.
+<img width="1337" height="713" alt="image" src="https://github.com/user-attachments/assets/758e13b4-0160-41cd-9438-59364d6dba36" />
+<img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/afcbd52f-630b-4fde-95f1-de3f7d7c5618" />
+
+Also did some renders in blender!
+
+<img width="1920" height="1080" alt="render-2" src="https://github.com/user-attachments/assets/bd40cd3b-7c8f-4f9f-92cb-0ef539fcba61" />
+<img width="1920" height="1080" alt="render-1" src="https://github.com/user-attachments/assets/7d082e8f-2c76-446c-882d-f999188063c0" />
