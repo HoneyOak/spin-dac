@@ -29,3 +29,5 @@ Arranged the PCB Layout, placing caps and resistors in optimal positions. Using 
 ## 2025-07-26 More KiCAD (4.5 hours)
 Done with PCB!!! took a while to have everything routed because I had to be very careful with what layer each trace needs to go to.
 <img width="1020" height="872" alt="image" src="https://github.com/user-attachments/assets/43d9eb0a-e726-4bfc-b9c0-553a86384fb3" />
+<img width="1332" height="957" alt="image" src="https://github.com/user-attachments/assets/2278206f-1d4d-4092-a20d-677f714a23a1" />
+
