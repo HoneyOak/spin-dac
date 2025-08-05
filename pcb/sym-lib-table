@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "OPA2134PA")(type "KiCad")(uri "${KIPRJMOD}/OPA2134PA/OPA2134PA.kicad_sym")(options "")(descr ""))
-)
