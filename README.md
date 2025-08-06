@@ -1,4 +1,4 @@
-<img width="814" height="673" alt="image" src="https://github.com/user-attachments/assets/d0029dc3-c644-4227-8989-1abc3bf41c98" /># Spin DAC
+# Spin DAC
 A Digital-Analog Converter (DAC) is used for... well, exactly that. Particularly, I want to make a high-quality DAC that converts digital music signals into analog signals for headphones/speakers. Commercial options are quite expensive and big. It is, however, (theoretically) possible to build a budget portable DAC.
 
 This project features a compact, yet high-quality, USB-C DAC, with an inbuilt op-amp. With this, we can acheive significantly better sound quality, with extremely low noise, on any usb-c device.
