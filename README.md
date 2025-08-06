@@ -18,7 +18,7 @@ This project features a compact, yet high-quality, USB-C DAC, with an inbuilt op
 
 
 ## PCB
-<img width="1170" height="901" alt="image" src="https://github.com/user-attachments/assets/b14e289d-6d94-425b-8818-5bbd88e74ccc" />
+<img width="888" height="749" alt="image" src="https://github.com/user-attachments/assets/6279deb5-96be-4f69-8ba4-f70586b8c127" />
 
 <img width="1318" height="854" alt="image" src="https://github.com/user-attachments/assets/5f0f9e45-8bfd-4fe8-a608-9a95aaf54f4e" />
 
